@@ -1,5 +1,6 @@
 ## Step 1 - glue knob on slider
 ![Step1](img/step1.jpg)
+
 It needs to dry in the meantime.
 
 ## Step 2 - add copper tape to the bottom piece
