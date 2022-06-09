@@ -26,13 +26,23 @@ Don't wrap it around multiple times. It should be a single layer.
 ## Step 5 - add copper tape to the top piece
 ![Step 5](img/step5.jpg)
 
-## Step 6 - add copper tape to the slider
+## Step 6 - add copper tape and screw to the slider
+![Step 6](img/step6-1.jpeg)
 
 First put one strand of copper in the middle of the slider (marked). Add two additional strands on the sides.
 
+![Step 6](img/step6-2.jpeg)
+
+Screw the small wood screw into the the hole in the slider.
+
+
 ## Step 7 - check if it works!
+![Step 7](img/step7.jpeg)
+
+Add the battery (check the orientation!) and put everything together. The LED should light up if you press everything together slightly. if it does not work check the connections.
 
 ## Step 8 - add screws
+Add the M3 screws and nuts but don't tighten them too much. Use the middle screw (near the slider) to adjust the tightness of the slider.
 
 ## Step 9 - done!
 ![Step9](img/step9.jpg)
