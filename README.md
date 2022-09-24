@@ -10,8 +10,12 @@ Well, that's a good question! We will add more info here at a later stage.
 
 ### File explanation
 
-**flashlight.svg**
-Contains the raw design
+**flashlight_topswitch.svg**
+Contains the design of the original flashlight (with the switch on the top) with bridges which holds the parts in a frame
 
-**flashlight_w_bridges.svg**
-Contains the design with bridges which holds the parts in a frame  
+**flashlight_sideswitch.svg (latest design)**
+Contains a completly reworked flashlight design with switch on the side.
+
+### Instructions
+
+The instructions for building the different flashlight designs are in this repository. There is a german version available for the newest design
