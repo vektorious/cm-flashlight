@@ -19,3 +19,7 @@ Contains a completly reworked flashlight design with a switch on the side.
 ### Instructions
 
 The instructions for building the different flashlight designs are in this repository. There is a german version available for the newest design
+
+### Contact
+
+If you have any questions, drop me a message at alex@oberlab.de
