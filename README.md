@@ -1,5 +1,7 @@
 ## Simple flashlight
 
+![Step1](img/flashlight_kit.jpg)
+
 ### Background
 
 The prototype of the flashlight design was lying around for a long time. In a joined effort we improved and prepared it to use it in a workshop at re:publica 2022. In this workshop, we want to give insights into our approach to Critical Making and let you experience it first hand. While we build a small flashlight together, we explain the concepts of Critical Making and highlight some starting point to make projects, workshops or lessons more critical.
